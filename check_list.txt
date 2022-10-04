@@ -1,8 +1,6 @@
 1. id
 2. title
-3. precondition
-4. inputs
-5. expect result
-6. actual result
-7. status
-8. bug
+3. inputs
+4. expect result
+5. status
+6. bug
